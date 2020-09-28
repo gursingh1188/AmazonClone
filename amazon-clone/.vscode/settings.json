@@ -1,0 +1,8 @@
+{
+  "editor.formatOnSave": true,
+  "emmet.showSuggestionsAsSnippets": true,
+  "emmet.showAbbreviationSuggestions": true,
+  "auto-rename-tag.activationOnLanguage": ["*"],
+
+  "emmet.triggerExpansionOnTab": true
+}
